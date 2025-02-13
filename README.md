@@ -1,6 +1,6 @@
 ## Payment URL Structure
 ```
-https://payments.open.money/open/redirect/layer/{brand_color}/{error_color}/{brand_logo}?redirect_url={url}
+https://payments.open.money/open/redirect/layer/{brand_color}/{error_color}/{brand_logo}?redirect_url={redirect_url}
 ```
 
 ### Parameters
